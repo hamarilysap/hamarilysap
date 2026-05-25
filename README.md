@@ -16,7 +16,7 @@
 </marquee>
 <div aling="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamarilysap&theme=rose_pine&show_icons=true)](https://github.com/SEU_USUARIO)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamarilysap&theme=rose_pine&show_icons=true)](https://github.com/hamarilysap)
 </div>
 <br>
 <div align="center">  
@@ -50,7 +50,7 @@
     <samp>        <b>More Info</b>      </samp>    
   </summary>
   <br>
-  <div align="center">  
+  <div aling="center">  
     <samp>        <b>      Contact me:        </b>   </samp>    
     <br>    
     <br>    
