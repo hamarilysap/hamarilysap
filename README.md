@@ -14,6 +14,7 @@
 <marquee behavior="scroll" direction="left" scrollamount="3">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6ZnN5MXA3ZWg1b2J3eWpsZzZ4MDZ3N3RwZ3U2amV5Zmk0OHZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c9U38bC2vCOE8/giphy.gif" width="60">
 </marquee>
+<div aling="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamarilysap&theme=rose_pine&show_icons=true)](https://github.com/SEU_USUARIO)
 </div>
