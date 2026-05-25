@@ -35,6 +35,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">  
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">  
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="40" src= https://i.pinimg.com/736x/a4/7e/6a/a47e6ac112db9af26a9847225edb7e55.jpg
 </div>
 <br><br>
 <details align="center">    
