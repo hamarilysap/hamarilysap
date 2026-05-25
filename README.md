@@ -63,7 +63,7 @@
 <br>
 <div align="center">  
   <!-- Contador de visitas do seu perfil -->
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hamarilys&style=flat-square&color=8f2c5b" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hamarilysap&style=flat-square&color=8f2c5b" /></p> 
 </div>
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
