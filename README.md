@@ -48,7 +48,7 @@
     <br>    
     <br>    
     <!-- Seus links configurados abaixo -->
-    <a href="mailto:hamarilysaplopesferreira@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>  
+    <a href="mailto:hamarilysaplopesferreira@gmail.com  "><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>  
     <a href="https://www.instagram.com/_mariixlys?igsh=MXNmNTJ5MGRtb3A5OA=="><img width="70" height="70" alt="Instagram" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>  
   </div>
   <br>
